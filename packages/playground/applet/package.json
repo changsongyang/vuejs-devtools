@@ -11,7 +11,7 @@
     "@tresjs/core": "^4.3.3",
     "@vueuse/core": "catalog:",
     "pinia": "catalog:",
-    "three": "^0.174.0",
+    "three": "^0.175.0",
     "unplugin-auto-import": "catalog:",
     "vue": "catalog:",
     "vue-router": "catalog:"
